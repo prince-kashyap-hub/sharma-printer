@@ -1,0 +1,6 @@
+{
+  "name": "Sharma Printers",
+  "description": "Modern, premium one-page homepage and quote request platform for Sharma Printers in Shahdara, Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
